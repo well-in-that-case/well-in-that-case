@@ -8,4 +8,4 @@ Here's some facts about me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=well-in-that-case&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Recent Project
-My most recent project is [ovtable](https://luarocks.org/modules/well-in-that-case/ovtable) for Lua. It's gained over 23,000 downloads on Luarocks and continues to gain ~2,000 more every day.
+My most recent project is [ovtable](https://luarocks.org/modules/well-in-that-case/ovtable) for Lua. It's gained over 30,000 downloads on Luarocks and continues to gain ~2,000 more every day.
