@@ -5,4 +5,4 @@ I enjoy writing code when I get bored.
 
 ## Projects
 - [ovtable](https://luarocks.org/modules/well-in-that-case/ovtable) for Lua. 
-  - It's gained over 150,000 downloads on Luarocks and became marked as the most popular ordered field implementation for Lua 5.2.
+  - It's gained over 150,000 downloads on Luarocks and became marked as the most popular ordered field implementation for Lua.
