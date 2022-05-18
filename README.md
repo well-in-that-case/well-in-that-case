@@ -6,3 +6,5 @@ I enjoy writing code when I get bored.
 ## Projects
 - [ovtable](https://luarocks.org/modules/well-in-that-case/ovtable) for Lua. 
   - It's gained over 200,000 downloads on Luarocks and became marked as the most popular ordered field implementation for Lua.
+- [LuaString](https://github.com/well-in-that-case/LuaString) for Lua.
+  - I released this recently. It's supposed to greatly extend the functionality of the `string` type in Lua.
