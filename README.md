@@ -1,4 +1,4 @@
-# Welcome to my profiler, stranger.
+# Welcome to my profile, stranger.
 I enjoy writing code when I get bored.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=well-in-that-case&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
