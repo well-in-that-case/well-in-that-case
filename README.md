@@ -9,4 +9,4 @@ I enjoy writing code when I get bored.
 - [LuaString](https://github.com/well-in-that-case/LuaString) for Lua.
   - A very simple module that provides implementations for common string operators. It has around 70,000 downloads.
 - [Pluto](https://github.com/well-in-that-case/Pluto)
-  - A highly-compatible superset implementation of Lua in C++ that turns the language into what I imagine an ideal Lua would be.
+  - A highly-compatible superset implementation of Lua that turns the language into what I imagine an ideal Lua would be.
