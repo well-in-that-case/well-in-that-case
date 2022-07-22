@@ -8,3 +8,5 @@ I enjoy writing code when I get bored.
   - It's gained over 300,000 downloads on Luarocks and became marked as the most popular ordered field implementation for Lua.
 - [LuaString](https://github.com/well-in-that-case/LuaString) for Lua.
   - A very simple module that provides implementations for common string operators. It has around 70,000 downloads.
+- [Pluto](https://github.com/well-in-that-case/Pluto)
+  - A highly-compatible superset implementation of Lua in C++ that turns the language into what I imagine an ideal Lua would be.
